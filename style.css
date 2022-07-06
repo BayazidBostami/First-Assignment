@@ -1,0 +1,139 @@
+.Help-Those {
+    display: flex;
+    justify-content: center;
+    background-image: url(f2.jpg);
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.help {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    width: 50%;
+
+
+}
+
+.dolor {
+    width: 50%;
+
+}
+
+.nam {
+    display: flex;
+    justify-content: center;
+}
+
+.Donate {
+
+    text-decoration: none;
+    padding: 10px 5px;
+    color: gray;
+    border-radius: 6px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 230, 0), tomato);
+}
+
+.Donate-t {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.help-a {
+    text-align: center;
+    font: 400;
+}
+
+.tk {
+    text-align: center;
+}
+
+.koto {
+    font-size: 30px;
+    font-weight: 700;
+    display: inline-flex;
+    margin: 10px 22px 22px 10px;
+    background-color: whitesmoke;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.other {
+    text-align: center;
+    margin-left: 50px;
+}
+
+.our {
+    margin-top: 80px;
+}
+
+.head {
+    display: flex;
+    padding: 12px 13px;
+    margin-left: 60px;
+    margin-right: 60pcx;
+    gap: 30px;
+
+
+}
+
+.food {
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 15px 14px gray;
+    border-radius: 10px;
+
+}
+
+.family {
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 15px 14px gray;
+    border-radius: 10px;
+    background-color: beige;
+
+
+}
+
+.child {
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 15px 14px gray;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+
+.im {
+    height: 100px;
+    width: 100px;
+}
+
+.ims {
+    height: 100px;
+    width: 100px;
+}
+
+#uu {
+    height: 100px;
+    width: 100px;
+}
+
+.taka {
+    border: 2px solid rgb(223, 92, 92);
+    background-color: rgb(207, 193, 174);
+
+}
+
+.get {
+    text-align: center;
+}
