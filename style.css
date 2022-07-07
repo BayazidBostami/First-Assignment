@@ -9,6 +9,16 @@
 
 }
 
+#need {
+    font-size: 40px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -25,6 +35,7 @@ body {
 
 .dolor {
     width: 50%;
+    text-align: center;
 
 }
 
@@ -37,7 +48,7 @@ body {
 
     text-decoration: none;
     padding: 10px 5px;
-    color: gray;
+    color: white;
     border-radius: 6px;
     font-weight: 700;
     background-image: linear-gradient(rgb(255, 230, 0), tomato);
@@ -54,6 +65,7 @@ body {
 }
 
 .tk {
+
     text-align: center;
 }
 
@@ -65,6 +77,22 @@ body {
     background-color: whitesmoke;
     padding: 40px;
     border-radius: 10px;
+}
+
+#border {
+    border: 1px solid rgb(192, 185, 176);
+    width: 50%;
+    margin-left: 80px;
+}
+
+#bor {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#am {
+    color: rgb(192, 185, 176);
 }
 
 .other {
@@ -136,4 +164,92 @@ body {
 
 .get {
     text-align: center;
+}
+
+
+
+#fd {
+    background-color: black;
+}
+
+.email {
+    padding: 20px;
+    background-color: rgb(240, 189, 189);
+    text-align: center;
+    width: 600px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50PX;
+    height: 100PX;
+    border-radius: 10px;
+}
+
+.ni {
+    text-align: center;
+    margin: 40px;
+
+}
+
+.ni input {
+    font-size: 20px;
+    border: none;
+    padding-left: 5px;
+}
+
+
+
+.Sub {
+    padding: 10px 10px;
+    color: gray;
+    border-radius: 6px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 230, 0), tomato);
+    border: none;
+
+
+}
+
+footer {
+    text-align: center;
+    background-color: darkcyan;
+    margin: 0%;
+    margin-top: 40px;
+    margin-bottom: -100px;
+}
+
+#al {
+    text-align: justify;
+}
+
+#how {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(218, 216, 121), rgb(143, 175, 143));
+    padding: 5px 5px;
+    border-radius: 7px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.the {
+    text-align: center;
+    width: 50%;
+    padding: 5%;
+}
+
+#live {
+    display: flex;
+}
+
+#pic {
+    margin-right: 20PX;
+    border-radius: 10PX;
+}
+
+.hum {}
+
+span {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
 }
